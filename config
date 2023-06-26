@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "teccode"]
+	url = https://github.com/Ram03045/HTML-CODE
+	fetch = +refs/heads/*:refs/remotes/teccode/*
+[remote "tec-Code"]
+	url = https://github.com/Ram03045/html-file.git
+	fetch = +refs/heads/*:refs/remotes/tec-Code/*
+[remote "tech"]
+	url = https://github.com/Ram03045/HTML-CODE
+	fetch = +refs/heads/*:refs/remotes/tech/*
